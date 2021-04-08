@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    justify-content: center;
+    display: flex;
+}
+
+.main {
+    width: 300px;
+    padding: 15px;
+    background-color: #ededed;
+}
+
+h1 {
+    text-align: center;
+    color: #e69d17;
+    margin: 10px;
+}
+
+.search {
+    position: relative;
+}
+
+.search span {
+    position: absolute;
+}
+
+ul li {
+    list-style-type: none;
+  
+}
+
+ul li i {
+    margin-left: 40px;
+}
